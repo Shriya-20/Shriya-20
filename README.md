@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-# Hi there, I'm Shriya! 👋
 
 ✨ _Welcome to my GitHub profile!_ ✨
 
