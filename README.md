@@ -2,7 +2,7 @@
 
 ✨ _Welcome to my GitHub profile!_ ✨
 
-- 🌱 I’m learning more about web development and machine learning algorithms.
+- 🌱 Currently diving deeper into machine learning, deep learning, and big data systems.
 - 👯 I’m looking to collaborate on projects related to AI, data science, and enhancing accessibility through technology.
 - 📫 How to reach me: [bhatshriya20@gmail.com](mailto:bhatshriya20@gmail.com)
 - 😄 Pronouns: She/Her
